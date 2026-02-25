@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|c:\\users\\theao\\documents\\noroffuni\\game assets 3\\labyrinth game\\assets\\scripts\\improvedplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\improvedplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|c:\\users\\theao\\documents\\noroffuni\\game assets 3\\labyrinth game\\assets\\narrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\narrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\assets\\scripts\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\assets\\scripts\\tooltips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tooltips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\assets\\scripts\\playerteleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerteleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\assets\\storyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\storyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImprovedPlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\ImprovedPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImprovedPlayerController.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\ImprovedPlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImprovedPlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:55:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Narrative.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Narrative.cs",
+              "RelativeDocumentMoniker": "Assets\\Narrative.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Narrative.cs",
+              "RelativeToolTip": "Assets\\Narrative.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:46:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoryScript.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\StoryScript.cs",
+              "RelativeDocumentMoniker": "Assets\\StoryScript.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\StoryScript.cs",
+              "RelativeToolTip": "Assets\\StoryScript.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:26:42.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerTeleport.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\PlayerTeleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerTeleport.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\PlayerTeleport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerTeleport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:28:23.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tooltips.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\Tooltips.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tooltips.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\Tooltips.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tooltips.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:46:34.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\InventoryController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:45:02.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:23:33.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\NoroffUni\\Game Assets 3\\Labyrinth game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:21:19.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
