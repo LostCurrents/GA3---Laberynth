@@ -20,8 +20,18 @@ public class PlayerTeleport : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider other)
     {
-        pointA.position = pointB.position;
+        CharacterController cc = other.GetComponent<CharacterController>();
+        if (cc)
+        {
+            cc.enabled = false;
+            other.transform.position = pointB.position;
+            cc.enabled = true;
+        }
+        
+
     }
+
+    
 }
