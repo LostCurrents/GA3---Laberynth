@@ -29,7 +29,7 @@ public class StoryScript : MonoBehaviour
 
     private void OnEnable()
     {
-        anim = GetComponent<Animator>();
+        
 
         //calls event to hide buttons not in current use
         hideButtons();
@@ -83,6 +83,8 @@ public class StoryScript : MonoBehaviour
 
         //check parameter name set by Narrative Script
         string parm = first.GetComponent<Narrative>().paramName;
+
+        Debug.Log("THE PARM " + parm);
         anim.SetTrigger(parm);
 
         //If no more children, then exit current branch
@@ -115,7 +117,15 @@ public class StoryScript : MonoBehaviour
             string narrate2 = (first.GetChild(i).GetComponent<Narrative>().narration);
             text2.text = narrate2;
 
-            first.GetChild(i).GetComponent<Narrative>().StoryTrigger.gameObject.SetActive(true);
+            if(first.GetChild(i).GetComponent<Narrative>().StoryTrigger)
+            {
+                Debug.Log("has story trigger");
+                first.GetChild(i).GetComponent<Narrative>().StoryTrigger.gameObject.SetActive(true);
+            }
+            else
+            {
+                Debug.Log("does not have a story trigger");
+            }
         }
     }
 
