@@ -6,6 +6,7 @@ public class StoryCollider : BasicCollider
 { 
     public GameObject StoryTrigger;
     public GameObject Panel;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -32,6 +33,11 @@ public class StoryCollider : BasicCollider
         Debug.Log("Handle Exit " + transform.name + " " + otherTransform.name);
 
         StoryTrigger.SetActive(false);
+        Panel.SetActive(false);
+    }
+
+    public void HidePanel ()
+    {
         Panel.SetActive(false);
     }
 

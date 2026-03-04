@@ -1,46 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GA3---Laberynth\\Labyrinth game\\",
+  "WorkspaceRootPath": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\storyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\storyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|c:\\ga3---laberynth\\labyrinth game\\assets\\floorbreakingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\floorbreakingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\flooranimscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\flooranimscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\textprompts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\textprompts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\scripts\\storycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\assets\\scripts\\storycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\storycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\scripts\\basiccollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|c:\\users\\theao\\documents\\github\\ga3 - laberynth\\ga3 - laberynth\\labyrinth game\\assets\\scripts\\playerteleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerteleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\assets\\scripts\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\assets\\scripts\\narrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\narrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|c:\\users\\theao\\documents\\github\\ga3 - laberynth\\ga3 - laberynth\\labyrinth game\\assets\\scripts\\textprompts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textprompts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\assets\\scripts\\storyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\storyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\assets\\scripts\\basiccollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basiccollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\narrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\narrative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\assets\\scripts\\newcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\assets\\scripts\\newplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|C:\\GA3---Laberynth\\Labyrinth game\\assets\\scripts\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2D75DC-B936-5CA2-FDB9-1D0017872060}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,126 +49,129 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FloorBreakingScript.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\FloorBreakingScript.cs",
-              "RelativeDocumentMoniker": "Assets\\FloorBreakingScript.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\FloorBreakingScript.cs",
-              "RelativeToolTip": "Assets\\FloorBreakingScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PlayerTeleport.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\PlayerTeleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerTeleport.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\PlayerTeleport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerTeleport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T03:34:44.336Z",
+              "WhenOpened": "2026-03-04T03:03:04.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TextPrompts.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\TextPrompts.cs",
-              "RelativeDocumentMoniker": "Assets\\TextPrompts.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\TextPrompts.cs",
-              "RelativeToolTip": "Assets\\TextPrompts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\TextPrompts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextPrompts.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\TextPrompts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextPrompts.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T17:44:00.194Z"
+              "WhenOpened": "2026-03-03T16:09:07.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FloorAnimScript.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\FloorAnimScript.cs",
-              "RelativeDocumentMoniker": "Assets\\FloorAnimScript.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\FloorAnimScript.cs",
-              "RelativeToolTip": "Assets\\FloorAnimScript.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "NewCameraController.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\NewCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewCameraController.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\NewCameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewCameraController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T15:53:16.825Z"
+              "WhenOpened": "2026-03-03T16:06:51.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StoryScript.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\StoryScript.cs",
-              "RelativeDocumentMoniker": "Assets\\StoryScript.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\StoryScript.cs",
-              "RelativeToolTip": "Assets\\StoryScript.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAvwFYAAAAmAAAA",
+              "DocumentIndex": 3,
+              "Title": "Narrative.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\Narrative.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Narrative.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\Narrative.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Narrative.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T17:55:17.084Z",
+              "WhenOpened": "2026-03-03T14:45:02.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "StoryScript.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\StoryScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoryScript.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\StoryScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoryScript.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:39:09.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewPlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\NewPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewPlayerController.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\NewPlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewPlayerController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:27:32.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BasicCollider.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\BasicCollider.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\BasicCollider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BasicCollider.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\BasicCollider.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\BasicCollider.cs",
               "RelativeToolTip": "Assets\\Scripts\\BasicCollider.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T17:22:22.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "StoryCollider.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\StoryCollider.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\StoryCollider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StoryCollider.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\StoryCollider.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\StoryCollider.cs",
               "RelativeToolTip": "Assets\\Scripts\\StoryCollider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T16:59:53.911Z"
+              "WhenOpened": "2026-02-26T16:59:53.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Narrative.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Narrative.cs",
-              "RelativeDocumentMoniker": "Assets\\Narrative.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Narrative.cs",
-              "RelativeToolTip": "Assets\\Narrative.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\theao\\Documents\\GitHub\\GA3 - Laberynth\\GA3 - Laberynth\\Labyrinth game\\Assets\\Scripts\\InventoryController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T11:46:09.481Z"
+              "WhenOpened": "2026-02-11T12:45:02.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\InventoryController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryController.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\InventoryController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InventoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:45:02.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
-              "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\CameraController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T19:23:33.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\GA3---Laberynth\\Labyrinth game\\Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T19:21:19.551Z"

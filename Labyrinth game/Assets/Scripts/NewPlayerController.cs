@@ -5,6 +5,8 @@ using UnityEngine;
 public class NewPlayerController : MonoBehaviour
 {
 
+    private bool IsJumping = false;
+
     [Header("Character Attributes")]
     public float walkSpeed = 2;
     public float runSpeed = 6;
@@ -59,12 +61,18 @@ public class NewPlayerController : MonoBehaviour
         if (Input.GetKey(KeyCode.Space))
         {
             Jump();
+            IsJumping = true;
+        }
+
+        if (controller.isGrounded == true)
+        {
+            IsJumping = false;
         }
 
         //Attempt at adding proper gravity when falling
         moveVector = Vector3.zero;
 
-        if (controller.isGrounded == false)
+        if (controller.isGrounded == false && !IsJumping)
         {
 
             
